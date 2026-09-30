@@ -1,0 +1,7 @@
+{
+  "name": "WelloraApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
